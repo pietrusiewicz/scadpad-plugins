@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "kopiuj-wymiary",
+      "name": "Kopiuj wymiary",
+      "version": "1.0.0",
+      "path": "kopiuj-wymiary",
+      "api": 1
+    },
+    {
+      "id": "eksport-obj",
+      "name": "Eksport OBJ",
+      "version": "1.0.0",
+      "path": "eksport-obj",
+      "api": 1
+    }
+  ]
+}
